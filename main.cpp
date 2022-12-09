@@ -3,7 +3,7 @@
 using namespace std;
 
 int main(){
-   char a=0;
+   int a=0;
     cin>>a;
     if (converti_lettera(a)){
         cout<<a<<endl;
