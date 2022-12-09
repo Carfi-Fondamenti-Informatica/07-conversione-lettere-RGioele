@@ -1,1 +1,1 @@
-bool convert (char &);
+bool convert (int a);
