@@ -1,5 +1,5 @@
 #include "lib.h"
-bool converti_lettera (char a){
+bool converti_lettera (char & a){
     if (a>=65 && a<=90){
         a +=32;
         return true;
