@@ -1,4 +1,3 @@
-
 #include "lib.h"
 bool converti_lettera (char & a){
     if (a>=65 && a<=90){
