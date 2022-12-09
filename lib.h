@@ -1,1 +1,1 @@
-bool convert (int a);
+bool converti_lettera (char &);
